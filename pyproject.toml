@@ -1,0 +1,20 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "discord-py>=2.5.0",
+    "pytrends>=4.9.2",
+    "requests>=2.32.3",
+    "tweepy>=4.15.0",
+    "lxml[html-clean]",
+    "pandas",
+    "beautifulsoup4>=4.13.3",
+    "selenium>=4.29.0",
+    "webdriver-manager>=4.0.2",
+    "undetected-chromedriver>=3.5.5",
+    "requests-html>=0.10.0",
+    "grok-sdk",
+]
