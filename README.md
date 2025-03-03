@@ -127,7 +127,7 @@ Unlock exclusive features with Web Frens Premium, available via Whop subscriptio
 - 5% discount code (“WEBFRENS5”) for other Web Frens bots/services.
 - X-Exclusive trends (coming soon with Twitter API).
 
-Subscribe on Whop, join our Discord, and follow [x.com/WebFrens_](https://x.com/WebFrens_) and [x.com/FunkyxBeatz](https://x.com/FunkyxBeatz) to verify premium access.
+Subscribe on Whop *(Coming Soon)*, join our Discord, and follow [x.com/WebFrens_](https://x.com/WebFrens_) and [x.com/FunkyxBeatz](https://x.com/FunkyxBeatz) to verify premium access.
 
 ---
 
