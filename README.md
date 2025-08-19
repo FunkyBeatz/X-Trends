@@ -3,9 +3,13 @@
 ![Web Frens Banner](https://i.imgur.com/i9s3LmJ.png)  
 *Track the Hottest Trends with Style – Powered by Web Frens 2025 ©*
  
-[![Discord](https://img.shields.io/discord/123456789012345678?label=Discord&color=blue)](https://discord.gg/3WaKmnnq)  
+[![Follow me](https://img.shields.io/badge/Follow%20me-ffffff?logo=x&logoColor=000000)](https://x.com/FunkyxBeatz)
 
-[![Web Frens 2025 ©](https://img.shields.io/badge/Web%20Frens%202025%20©-Yellow-brightgreen)](https://x.com/FunkyxBeatz)
+[![Follow Web Frens](https://img.shields.io/badge/Follow%20Web%20Frens-ffffff?logo=x&logoColor=000000)](https://x.com/WebFrens_)
+
+
+[![Discord](https://img.shields.io/discord/1330332570847547433?label=Join%20the%20Community&logo=discord&logoColor=5865F2&color=5865F2)](https://discord.gg/gVEEv8Yswu)
+
 
 ## Description
 **Web Frens 𝕏 Trending Keywords Bot** is a state-of-the-art Discord bot crafted under the prestigious “Web Frens” brand to deliver real-time trending keywords from X directly to your server. 
