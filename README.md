@@ -3,6 +3,10 @@
 ![Web Frens Banner](https://i.imgur.com/i9s3LmJ.png)  
 *Track the Hottest Trends with Style – Powered by Web Frens 2025 ©*
  
+## Follow Me on Social Media
+
+Stay connected and follow my work on social media:
+
 [![Follow me](https://img.shields.io/badge/Follow%20me-ffffff?logo=x&logoColor=000000)](https://x.com/FunkyxBeatz)
 
 [![Follow Web Frens](https://img.shields.io/badge/Follow%20Web%20Frens-ffffff?logo=x&logoColor=000000)](https://x.com/WebFrens_)
